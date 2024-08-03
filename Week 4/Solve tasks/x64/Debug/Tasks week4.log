@@ -1,0 +1,7 @@
+﻿  Tasks week4.cpp
+C:\Users\eldar\source\repos\White-belt\Week 4\Solve tasks\Tasks week4.cpp(284,14): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\eldar\source\repos\White-belt\Week 4\Solve tasks\Tasks week4.cpp(287,14): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\eldar\source\repos\White-belt\Week 4\Solve tasks\Tasks week4.cpp(1202,24): warning C4101: 'er': unreferenced local variable
+gtestd.lib(gtest-all.obj) : warning LNK4099: PDB '' was not found with 'gtestd.lib(gtest-all.obj)' or at ''; linking object as if no debug info
+gtest_maind.lib(gtest_main.obj) : warning LNK4099: PDB '' was not found with 'gtest_maind.lib(gtest_main.obj)' or at ''; linking object as if no debug info
+  Tasks week4.vcxproj -> C:\Users\eldar\Source\Repos\White-belt\Week 4\Solve tasks\x64\Debug\Tasks week4.exe

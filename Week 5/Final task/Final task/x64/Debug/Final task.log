@@ -1,0 +1,4 @@
+﻿  Final task.cpp
+C:\Users\eldar\source\repos\White-belt\Week 5\Final task\Final task\Final task.cpp(74,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1134,5): error MSB6006: "link.exe" exited with code 1168.
+LINK : fatal error LNK1168: cannot open C:\Users\eldar\source\repos\White-belt\Week 5\Final task\x64\Debug\Final task.exe for writing
